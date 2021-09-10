@@ -1,5 +1,8 @@
-### Hi there 👋
-
+Hi there 👋
+My name is Yadnesh.
+I am a final year undergrad from shivaji university, studying in WCE'22, Sangli.
+Do checkout my social profiles: My linkedin: https://www.linkedin.com/in/yadneshsdeshpande/
+I will be happy to make a pull request with you. cheers.
 <!--
 **yashpy/yashpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
