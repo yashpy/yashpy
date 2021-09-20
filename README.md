@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Final year Machine learning sentiment analysis project using lstm.
 - 🌱 I’m currently learning ...  Data mining, HPC, Cryptography and security networks.
 - 👯 I’m looking to collaborate on ... Web Development Issues, repos. etc.
-/*
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-*/
+-->
 - 📫 How to reach me: ... Connect me on linkedin: https://www.linkedin.com/in/yadneshsdeshpande/
-/* - 😄 Pronouns: ...*/ 
+<!-- - 😄 Pronouns: ...--> 
 - ⚡ Fun fact: ... fixing issues in repos is more easy than doing git pull, clone &push 😁.
