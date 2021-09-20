@@ -3,20 +3,20 @@ My name is Yadnesh.
 
 I am a final year undergrad from shivaji university, studying in WCE'22, Sangli.     
 
-Do checkout my social profiles: My linkedin: https://www.linkedin.com/in/yadneshsdeshpande/   
-
-I will be happy to make a pull request with you. cheers.
+ 
 <!--
 **yashpy/yashpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ... Final year Machine learning sentiment analysis project using lstm.
+- 🌱 I’m currently learning ...  Data mining, HPC, Cryptography and security networks.
+- 👯 I’m looking to collaborate on ... Web Development Issues, repos. etc.
+/*
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*/
+- 📫 How to reach me: ... Connect me on linkedin: https://www.linkedin.com/in/yadneshsdeshpande/
+//- 😄 Pronouns: ... 
+- ⚡ Fun fact: ... fixing issues in repos is more easy than doing git pull, clone &push 😁.
