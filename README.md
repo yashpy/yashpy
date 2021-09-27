@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--->
+ 
 - 📫 How to reach me: ... Connect me on linkedin: https://www.linkedin.com/in/yadneshsdeshpande/
+-->
 <!-- - 😄 Pronouns: ...--> 
 - ⚡ Fun fact: ... fixing issues in repos is more easy than doing git pull, clone &push 😁.
