@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 </a> 
 
 ## 😂 Here is a random joke that'll make you laugh!![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
