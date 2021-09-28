@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpy&theme=blue-green)
 
-<a href="https://github.com/yashpy/EXTENSIA/graphs/contributors"><img src="https://contrib.rocks/image?repo=yashpy/EXTENSIA" /></a>Made with [contributors-img](https://contrib.rocks)
+<a href="https://github.com/yashpy/EXTENSIA/graphs/contributors"><img src="https://contrib.rocks/image?repo=yashpy/EXTENSIA" /></a> 
 
 ## ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <img src="https://komarev.com/ghpvc/?username=yashpy"/>
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/yashpy/EXTENSIA)
