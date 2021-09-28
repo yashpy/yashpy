@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=yashpy"/>
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/yashpy/EXTENSIA)
+HITS![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
