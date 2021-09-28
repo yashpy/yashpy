@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
  <a href = "https://github.com/yashpy/Your_Repository_Name/graphs/contributors">  
 <img src = "https://contrib.rocks/image?repo = yashpy/repository_name"/>  
-</a> (https://contrib.rocks)
+</a> 
