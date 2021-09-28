@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <img src = "https://contrib.rocks/image?repo = yashpy/Virtual-police_station"/>  
 </a> 
 
-## [Jokes Card](https://readme-jokes.vercel.app/api)
+## ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src="https://komarev.com/ghpvc/?username = yashpy"/>
+<img src=https://komarev.com/ghpvc/?username=yashpy />
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/yashpy/EXTENSIA)
