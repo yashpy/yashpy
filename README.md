@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpy&theme=blue-green)
 
- <a href = "https://github.com/yashpy/Your_Repository_Name/graphs/contributors">  
-<img src = "https://contrib.rocks/image?repo = yashpy/repository_name"/>  
+ <a href = "https://github.com/yashpy/Virtual-police_station/graphs/contributors">  
+<img src = "https://contrib.rocks/image?repo = yashpy/Virtual-police_station"/>  
 </a> 
