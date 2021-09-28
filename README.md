@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=yashpy"/>
  
-HITS![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
