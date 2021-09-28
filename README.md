@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 ## 😂 Here is a random joke that'll make you laugh!![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <img src=https://komarev.com/ghpvc/?username = yashpy/>
+
+### HITS ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/yashpy/yashpy.github.io)
