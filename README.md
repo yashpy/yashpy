@@ -21,16 +21,38 @@ Here are some ideas to get you started:
 -->
 <!-- - 😄 Pronouns: ...--> 
 - ⚡ Fun fact: ... fixing issues in repos is more easy than doing git pull, clone &push 😁.
+<!--
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=yashpy&show_icons=true)
 
+-->
+
+<!--
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpy&theme=blue-green)
+
+-->
+
+<!--
 
 <a href="https://github.com/yashpy/EXTENSIA/graphs/contributors"><img src="https://contrib.rocks/image?repo=yashpy/EXTENSIA" /></a> 
 
+-->
+
+<!--
+
 ## ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+-->
+
+<!--
+
 <img src="https://komarev.com/ghpvc/?username=yashpy"/>
- 
+
+-->
+
+ <!--
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/yashpy/EXTENSIA)
  
+-->
