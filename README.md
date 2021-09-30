@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 
  
-
+<!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpy&theme=blue-green)
-
+--!>
  
-
+<!--
 <a href="https://github.com/yashpy/EXTENSIA/graphs/contributors"><img src="https://contrib.rocks/image?repo=yashpy/EXTENSIA" /></a> 
-
+--!>
  
 
 <!--
