@@ -1,5 +1,5 @@
-Hi there 👋
-My name is Yadnesh.                                         
+### Hi, I'm Yadnesh Deshpande👋
+                                         
 
 I am a final year undergrad from shivaji university, studying in WCE'22, Sangli.     
 
