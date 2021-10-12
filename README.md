@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... fixing issues in repos is more easy than doing git pull, clone &push 😁.
 
  
-
+<!---
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=yashpy&show_icons=true)
-
+---!>
  
 
  
