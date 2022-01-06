@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Connect me on linkedin: https://www.linkedin.com/in/yadneshsdeshpande/
 -->
 <!-- - 😄 Pronouns: ...--> 
-- ⚡ Fun fact: ... fixing issues in repos is more easy than doing git pull, clone &push 😁.
+- ⚡ Fun fact: ... fixing issues in repos is more easy than writing code 😁.
 
  
 <!---
