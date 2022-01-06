@@ -1,7 +1,7 @@
 # Hi, I'm Yadnesh Deshpande👋
                                          
 
-I am a final year undergrad from shivaji university, studying in WCE'22, Sangli.     
+I am a final year B.Tech student from shivaji university, studying in WCE'22, Sangli.     
 
  
 <!--
