@@ -10,7 +10,7 @@ I am a final year undergrad from shivaji university, studying in WCE'22, Sangli.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Final year Machine learning sentiment analysis project using lstm.
+- 🔭 I’m currently working on ... Final year Machine learning sentiment analysis project.
 - 🌱 I’m currently learning ...  Data mining, HPC, Cryptography and security networks.
 - 👯 I’m looking to collaborate on ... Web Development Issues, repos. etc.
 <!--
