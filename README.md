@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... Final year Machine learning sentiment analysis project.
-- 🌱 I’m currently learning ...  Data mining, HPC, Cryptography and security networks.
+<!---
+- 🌱 I’m currently learning ... 
+  ---!>
 - 👯 I’m looking to collaborate on ... Web Development Issues, repos. etc.
 <!--
 - 🤔 I’m looking for help with ...
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Connect me on linkedin: https://www.linkedin.com/in/yadneshsdeshpande/
 -->
 <!-- - 😄 Pronouns: ...--> 
-- ⚡ Fun fact: ... fixing issues in repos is more easy than writing code 😁.
+- ⚡ Fun fact: ...  .
 
  
 <!---
