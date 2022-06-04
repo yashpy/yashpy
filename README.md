@@ -9,9 +9,9 @@ I am a final year B.Tech student from shivaji university, studying in WCE'22, Sa
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on ... Final year Machine learning sentiment analysis project.
 <!---
+- 🔭 I’m currently working on ... .
+ 
 - 🌱 I’m currently learning ... 
   ---!>
 - 👯 I’m looking to collaborate on ... Web Development Issues, repos. etc.
