@@ -21,8 +21,9 @@ Here are some ideas to get you started:
  
 - 📫 How to reach me: ... Connect me on linkedin: https://www.linkedin.com/in/yadneshsdeshpande/
 -->
-<!-- - 😄 Pronouns: ...--> 
+<!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...  .
+--> 
 
  
 <!---
