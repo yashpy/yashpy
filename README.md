@@ -1,7 +1,9 @@
 # Hi, I'm Yadnesh Deshpande👋
                                          
 
-I am a final year B.Tech student from shivaji university, studying in WCE'22, Sangli.     
+I am currently working as a Software Engineer at Siemens Industries Software. 
+
+I have my B.Tech from shivaji university,graduated from Walchand College of Engineering in WCE'22, Sangli.     
 
  
 <!--
