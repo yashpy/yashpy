@@ -1,9 +1,9 @@
 # Hi, I'm Yadnesh Deshpande👋
                                          
 
-I am currently working as a Software Engineer at Siemens Industries Software. 
+I am currently doing master's in computer science in Arizona State University.
 
-I have my B.Tech from shivaji university,graduated from Walchand College of Engineering in WCE'22, Sangli.     
+I recently completed my industry experience as Software Engineer at Siemens Industries Software and have my B.Tech from shivaji university,graduated from Walchand College of Engineering in WCE'22, Sangli.     
 
  
 <!--
