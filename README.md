@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yadneshsdeshpande"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ydeshpa4@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yadnesh.deshpande2.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tempe,_AZ-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -17,12 +17,10 @@
 
 Founder of **LocalPulse** — an AI-powered review intelligence SaaS. I build production systems that actually use AI to solve problems, not demos that just call an API and stop.
 
-```
 🤖 Agentic AI workflows (n8n, LangChain)
 🔍 RAG pipelines — embeddings, semantic search, retrieval optimization
 🧩 LLM integration at production scale (GPT-4o, Claude API)
 ⚙️  Full-stack systems around AI: FastAPI / Node.js + React/TypeScript
-```
 
 ---
 
@@ -79,10 +77,6 @@ Founder of **LocalPulse** — an AI-powered review intelligence SaaS. I build pr
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashpy&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpy&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpy&theme=tokyonight&hide_border=true"/>
@@ -96,7 +90,3 @@ Founder of **LocalPulse** — an AI-powered review intelligence SaaS. I build pr
 - 💼 3+ years, Software Engineer @ **Siemens Digital Industries Software**
 - 🏆 Top 10 globally — Siemens x Sony Immersive Design Challenge 2026 (1,900+ participants, 44 universities)
 - 🤝 Open to collaborating on: **Agentic AI**, RAG systems, full-stack AI products, open-source
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashpy&style=flat-square&color=6366F1" alt="profile views"/>
-</p>
