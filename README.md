@@ -17,11 +17,12 @@
 
 Founder of **LocalPulse** — an AI-powered review intelligence SaaS. I build production systems that actually use AI to solve problems, not demos that just call an API and stop.
 
+```
 🤖 Agentic AI workflows (n8n, LangChain)
 🔍 RAG pipelines — embeddings, semantic search, retrieval optimization
 🧩 LLM integration at production scale (GPT-4o, Claude API)
 ⚙️  Full-stack systems around AI: FastAPI / Node.js + React/TypeScript
-
+```
 ---
 
 ### 🛠️ Tech Stack
