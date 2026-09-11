@@ -15,7 +15,7 @@
 
 ### 🧠 What I Build
 
-Founder of **LocalPulse** — an AI-powered review intelligence SaaS. I build production systems that actually use AI to solve problems, not demos that just call an API and stop.
+Software Engineer at **LocalPulse** — an AI-powered review intelligence SaaS. I build production systems that actually use AI to solve problems, not demos that just call an API and stop.
 
 ```
 🤖 Agentic AI workflows (n8n, LangChain)
