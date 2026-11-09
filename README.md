@@ -7,7 +7,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yadneshsdeshpande"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://yashpy-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://yashpy.github.io"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://yadnesh-deshpande1.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.npmjs.com/package/@ydeshpa4/agentcheck"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="mailto:yadnesh.deshpande2.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tempe,_AZ-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
@@ -69,11 +71,40 @@ Software Engineer at **LocalPulse** — an AI-powered review intelligence SaaS. 
 
 ### 🚀 Featured Projects
 
+**🤖 AI & Agents**
+
 | Project | What it does | Stack |
 |---|---|---|
-| **[LocalPulse](https://github.com/yashpy)** | Production SaaS — AI review intelligence for SMBs; GPT-4o sentiment/topic extraction + agentic n8n automation | React · FastAPI · Supabase · GPT-4o · n8n |
-| **[HireMate](https://github.com/yashpy)** | RAG-based job-resume matching — embeddings + knowledge graphs, 85%+ precision/recall | Python · RAG · Embeddings |
-| **[AI Contact Center Copilot](https://github.com/yashpy)** | RAG-powered support copilot — semantic search, summarization, sentiment over enterprise KBs | FastAPI · LangChain · pgvector |
+| **[agentcheck](https://github.com/yashpy/Agentcheck)** · [npm](https://www.npmjs.com/package/@ydeshpa4/agentcheck) | Open-source library + CLI: regression-tests AI agents (record, assert, diff, replay tool-call traces in CI) and scans MCP servers for tool poisoning, hidden Unicode and rug pulls | TypeScript · Node.js · MCP |
+| **[Sentinel](https://github.com/yashpy/Sentinel-SOC-agent)** | Autonomous SOC agent: XGBoost detector + LangGraph multi-agent investigation grounded in MITRE ATT&CK via hybrid RAG, with a verifier and human-approval gate | Python · LangGraph · XGBoost · RAG |
+| **[DocuMind](https://github.com/yashpy/DocuMind)** | Self-correcting agentic RAG: plan → hybrid BM25 + dense retrieval → rerank → verify and retry until grounded; LoRA/QLoRA fine-tuning and RAGAS-style evals | Python · LangGraph · Hugging Face |
+| **[Veloryn AI](https://github.com/yashpy/Veloryn-AI)** | Grounded RAG chatbot with citations, a confidence gate that routes to humans, and an eval harness (faithfulness, relevance, hit-rate) | Python · RAG · OpenAI / Groq |
+| **[Ticket Triage Agent](https://github.com/yashpy/TicketTriageAgent)** | Classifies support tickets, retrieves KB context, drafts replies with Claude, and auto-resolves or routes to a human by confidence | C# · ASP.NET Core · Claude · MongoDB |
+| **[HireMate](https://github.com/yashpy/Hiremate-llm-resume-extraction)** | LLM pipeline that turns unstructured resumes into validated, structured JSON for screening | Python · LLM prompting |
+
+**🌐 Full-Stack**
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[LocalPulse](https://github.com/yashpy/LOCALPulse)** · [live demo](https://local-pulse-chi.vercel.app) | Multi-tenant review-intelligence dashboard for local businesses: Postgres Row-Level Security per owner, JWT auth, GPT-4o review analytics on live Yelp + Google Places data | React · Node.js/Express · PostgreSQL · GPT-4o |
+
+**📊 Data Engineering**
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Market Data Lakehouse](https://github.com/yashpy/Market-Data-Lakehouse)** | Streaming ETL with idempotent MERGE and watermark dedup, so late and duplicate events never produce wrong rows | Kafka · Snowflake · dbt · DuckDB |
+| **[Veloryn](https://github.com/yashpy/Veloryn)** | Data-reliability gate: profiles tables, diffs against a baseline, fails CI on null spikes, volume drops and schema drift | Python · DuckDB · dbt |
+| **[DriftGuard](https://github.com/yashpy/Driftguard)** | Data-contract linter for dbt that blocks breaking schema changes in pull requests | Python · dbt · GitHub Actions |
+| **[Serverless Clickstream ETL](https://github.com/yashpy/Serverless-Clickstream-ETL)** | SNS → SQS → Lambda → partitioned S3, queryable in Athena, with a dead-letter queue | AWS Lambda · SQS · S3 · Athena |
+
+---
+
+### ✍️ Latest Writing
+
+- [I scanned a poisoned MCP server and decoded its invisible instructions](https://yadnesh-deshpande1.medium.com/i-scanned-a-poisoned-mcp-server-and-decoded-its-invisible-instructions-df2fd8c5d9bc)
+- [My AI agent got worse after a prompt change. Nothing crashed. Here's how I catch that in CI now.](https://yadnesh-deshpande1.medium.com/my-ai-agent-got-worse-after-a-prompt-change-nothing-crashed-heres-how-i-catch-that-in-ci-now-49fabfa58b55)
+
+More on [Medium](https://yadnesh-deshpande1.medium.com) and [my portfolio](https://yashpy.github.io/#blogs).
 
 ---
 
